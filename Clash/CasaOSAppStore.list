@@ -1,0 +1,6 @@
+# 内容：CasaOS AppStore
+# 数量：4条
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,paodayag.dev
+DOMAIN,cdn.jsdelivr.net
+DOMAIN,casaos-appstore.paodayag.dev
